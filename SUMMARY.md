@@ -14,3 +14,7 @@
 * [Images & media](basics/images-and-media.md)
 * [Interactive blocks](basics/interactive-blocks.md)
 * [Integrations](basics/integrations.md)
+
+## Get started {test block}
+
+* [Introduction to {name}](get-started-test-block/introduction-to-name.md)
